@@ -1,7 +1,7 @@
 # ban-segshit8x-nodes
 This script will ban all fake SegShit8x nodes. The list of nodes is obtained from bitnodes.21.co.
 
-You need `jq` to parse the json.
+You need jq (https://stedolan.github.io/jq/) to parse the json.
 
 Download the script:
 
